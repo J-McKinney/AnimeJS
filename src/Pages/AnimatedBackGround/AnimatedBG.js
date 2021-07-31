@@ -33,9 +33,6 @@ class AnimatedBG extends Component {
       // easing: "easeInOutSine",
       duration: 3000,
       delay: anime.stagger(10),
-      // opacity: function () {
-      //   return anime.random(0.75, 1);
-      // },
       // Complete the animation effect on screen
       complete: this.animateBlocks,
     });
@@ -46,11 +43,11 @@ class AnimatedBG extends Component {
       <>
         <div className="wrapper">
           <div className="container">
-            {/* <h2>
+            <h2>
               <span>My First video on</span>
               <br />
               Anime.JS
-            </h2> */}
+            </h2>
           </div>
         </div>
       </>

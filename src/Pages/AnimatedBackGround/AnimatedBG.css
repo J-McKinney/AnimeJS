@@ -25,13 +25,13 @@
   }
   
   h2 {
-    color: #fff;
+    color: #5757ff;
     text-align: center;
     font-size: 12vw;
     line-height: 0.6em;
     z-index: 1000;
     font-weight: 900;
-    background: black;
+    background: #ffffff;
     padding-bottom: 100px;
     border-radius: 5%;
   }

@@ -42,8 +42,8 @@ class AnimatedBG extends Component {
         <div className="wrapper">
           <div className="container">
             <h2>
-              {/* <span>My First video on</span>
-              <br /> */}
+              <span>My First video on</span>
+              <br />
               Anime.JS
             </h2>
           </div>

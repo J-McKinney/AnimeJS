@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import anime from "animejs";
+// import anime from "animejs";
 import Styles from "./AnimatedBG.module.css";
 
 class AnimatedBG extends Component {
@@ -7,19 +7,19 @@ class AnimatedBG extends Component {
 
   componentDidMount() {
     // WORKING!!!
+    // let container = document.querySelector(".container");
+    // for (var i = 0; i <= 5; i++) {
+    //   let squares = document.createElement("div");
+    //   squares.classList.add("AnimatedBG_square__XWhz_");
+    //   container.appendChild(squares);
+    // }
+    // EXPERIMENTAL SECTION!!!
     let container = document.querySelector(".container");
     for (var i = 0; i <= 5; i++) {
       let squares = document.createElement("div");
-      squares.classList.add("square");
+      squares.classList.add("AnimatedBG_square__XWhz_");
       container.appendChild(squares);
     }
-    // EXPERIMENTAL SECTION!!!
-    // let container = document.querySelector(".container");
-    // for (var i = 0; i <= 5; i++) {
-    //   let div = document.createElement("div");
-    //   div.classList.add("box");
-    //   container.appendChild(div);
-    // }
   }
 
   render() {
@@ -32,6 +32,7 @@ class AnimatedBG extends Component {
               <br />
               Anime.JS
             </h2>
+            {/* <div className={Styles.square}></div> */}
           </div>
         </div>
       </>

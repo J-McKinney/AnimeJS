@@ -1,30 +1,3 @@
-// import React, { Component } from "react";
-// import Styles from "./CardHover.module.css";
-
-// class CardHover extends Component {
-//   state = {};
-
-//   componentDidMount() {
-//     console.log("Mounted: ");
-//   }
-//   componentDidUpdate() {
-//     console.log("Updated: ");
-//   }
-//   componentWillUnmount() {
-//     console.log("Unmount: ");
-//   }
-
-//   render() {
-//     return (
-//       <>
-//         <div className={Styles.wrapper}></div>
-//       </>
-//     );
-//   }
-// }
-
-// export default CardHover;
-
 import React from "react";
 import Styles from "./CardHover.module.css";
 

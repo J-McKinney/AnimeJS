@@ -1,4 +1,5 @@
-import ABG from "./Pages/AnimatedBackGround/AnimatedBG";
+// import ABG from "./Pages/AnimatedBackGround/AnimatedBG";
+import CardHover from "./Pages/CardHoverFX/CardHover";
 // import logo from "./logo.svg";
 import "./App.css";
 
@@ -19,7 +20,12 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <ABG />
+      {/* <ABG /> */}
+      <CardHover
+        cardTitle="Design"
+        cardParagraph="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem
+                  Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+      />
     </div>
   );
 }

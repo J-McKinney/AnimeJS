@@ -16,7 +16,7 @@ function HoverCard(props) {
           <div>
             <h3>{props.hoverCardTitle}</h3>
             <p>{props.hoverCardParagraph}</p>
-            <a href={props.link}>{props.linkTitle}</a>
+            {/* <a href={props.link}>{props.linkTitle}</a> */}
           </div>
         </div>
       </div>

@@ -29,7 +29,6 @@ function CardHover(props) {
             link="/"
             linkTitle="Read More"
           />
-          {/*
           <HoverCard
             dataText="launch"
             imgSrc={launch}
@@ -48,6 +47,7 @@ function CardHover(props) {
             link="/"
             linkTitle="Read More"
           />
+          {/*
           */}
         </div>
       </div>

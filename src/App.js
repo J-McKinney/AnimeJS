@@ -1,6 +1,7 @@
 // import ABG from "./Pages/AnimatedBackGround/AnimatedBG";
 import CardHover from "./Pages/CardHoverFX/CardHover";
-import logo from "./logo.svg";
+import code from "./images/code.jpg";
+// import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -22,7 +23,7 @@ function App() {
       </header> */}
       {/* <ABG /> */}
       <CardHover
-        imgSrc={}
+        imgSrc={code}
         imgAlt="Logo"
         cardTitle="Design"
         cardParagraph="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem

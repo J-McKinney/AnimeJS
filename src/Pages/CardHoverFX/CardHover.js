@@ -8,7 +8,11 @@ function CardHover(props) {
         <div className={Styles.container}>
           <div className={Styles.card}>
             <div className={Styles.imgBx} data-text="Design">
-              <img src={props.imgSrc} alt={props.imgAlt} />
+              <img
+                className={Styles.cardHoverImg}
+                src={props.imgSrc}
+                alt={props.imgAlt}
+              />
             </div>
             <div className={Styles.content}>
               <div>

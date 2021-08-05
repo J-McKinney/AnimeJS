@@ -12,7 +12,7 @@ function CardHover(props) {
       <div className={Styles.wrapper}>
         <div className={Styles.container}>
           <HoverCard
-            dataText="design"
+            dataText="Design"
             imgSrc={design}
             imgAlt="Design"
             hoverCardTitle="Design"
@@ -21,7 +21,7 @@ function CardHover(props) {
             linkTitle="Read More"
           />
           <HoverCard
-            dataText="code"
+            dataText="Code"
             imgSrc={code}
             imgAlt="Code"
             hoverCardTitle="Code"
@@ -30,7 +30,7 @@ function CardHover(props) {
             linkTitle="Read More"
           />
           <HoverCard
-            dataText="launch"
+            dataText="Launch"
             imgSrc={launch}
             imgAlt="Launch"
             hoverCardTitle="Launch"
@@ -39,7 +39,7 @@ function CardHover(props) {
             linkTitle="Read More"
           />
           <HoverCard
-            dataText="earn"
+            dataText="Earn"
             imgSrc={earn}
             imgAlt="Earn"
             hoverCardTitle="Earn"

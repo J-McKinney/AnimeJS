@@ -34,11 +34,11 @@
 .card .imgBx::before {
   content: attr(data-text);
   position: absolute;
-  bottom: 0;
+  bottom: 25%;
   left: 0;
   width: 100%;
   text-align: center;
-  font-size: 6em;
+  font-size: 2.8em;
   color: rgba(255, 255, 255, 0.6);
   font-weight: 700;
 }
@@ -54,6 +54,33 @@
 
 .card .content {
   position: absolute;
+  right: 0px;
+  width: calc(100% - 75px);
+  height: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card .content h3 {
+  margin-bottom: 5px;
+  padding-left: 30px;
+  font-size: 24px;
+}
+
+.card .content a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 5px 10px;
+  background: #333;
+  text-decoration: none;
+  color: #fff;
+}
+
+.p {
+  padding-left: 30px;
+  margin: 0;
 }
 
 /*/////////////////////////////////////////////////////////////////////////*/

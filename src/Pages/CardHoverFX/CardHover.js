@@ -1,12 +1,12 @@
 import React from "react";
-import HoverCard from "../../Components/Card/HoverCard";
+import HoverCard from "../../Components/CardHover/HoverCard";
 import code from "../../images/code.jpg";
 import design from "../../images/design.jpg";
 import launch from "../../images/launch.jpg";
 import earn from "../../images/earn.jpg";
 import Styles from "./CardHover.module.css";
 
-function CardHover(props) {
+const CardHover = () => {
   return (
     <>
       <div className={Styles.wrapper}>
@@ -48,11 +48,11 @@ function CardHover(props) {
             linkTitle="Read More"
           />
           {/*
-          */}
+           */}
         </div>
       </div>
     </>
   );
-}
+};
 
 export default CardHover;

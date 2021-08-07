@@ -8,8 +8,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #16384c;
   min-height: 100vh;
+  background: #16384c;
 }
 
 .container {

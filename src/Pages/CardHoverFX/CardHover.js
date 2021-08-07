@@ -1,9 +1,9 @@
 import React from "react";
 import HoverCard from "../../Components/CardHover/HoverCard";
-import code from "../../images/code.jpg";
-import design from "../../images/design.jpg";
-import launch from "../../images/launch.jpg";
-import earn from "../../images/earn.jpg";
+import Design from "../../images/design.jpg";
+import Code from "../../images/code.jpg";
+import Launch from "../../images/launch.jpg";
+import Earn from "../../images/earn.jpg";
 import Styles from "./CardHover.module.css";
 
 const CardHover = () => {
@@ -13,39 +13,55 @@ const CardHover = () => {
         <div className={Styles.container}>
           <HoverCard
             dataText="Design"
-            imgSrc={design}
+            imgSrc={Design}
             imgAlt="Design"
             hoverCardTitle="Design"
-            hoverCardParagraph="Nobodys killing me until after I catch my wife with another man. Snuffles was my slave name. You can call me Snowball, because my fur is pretty and white. Quote mode. We all wanna die, we are meeseeks!"
             link="/"
             linkTitle="Read More"
+            hoverCardParagraph="Nobodys killing me until 
+            after I catch my wife with another man. Snuffles 
+            was my slave name. You can call me Snowball, 
+            because my fur is pretty and white. Quote mode. 
+            We all wanna die, we are meeseeks!"
           />
           <HoverCard
-            dataText="Code"
-            imgSrc={code}
+            dataText="Code1"
+            imgSrc={Code}
             imgAlt="Code"
-            hoverCardTitle="Code"
-            hoverCardParagraph="Nobodys killing me until after I catch my wife with another man. Snuffles was my slave name. You can call me Snowball, because my fur is pretty and white. Quote mode. We all wanna die, we are meeseeks!"
+            hoverCardTitle="Code2"
             link="/"
             linkTitle="Read More"
+            hoverCardParagraph="Nobodys killing me until 
+            after I catch my wife with another man. Snuffles 
+            was my slave name. You can call me Snowball, 
+            because my fur is pretty and white. Quote mode. 
+            We all wanna die, we are meeseeks!"
           />
           <HoverCard
             dataText="Launch"
-            imgSrc={launch}
+            imgSrc={Launch}
             imgAlt="Launch"
             hoverCardTitle="Launch"
-            hoverCardParagraph="Nobodys killing me until after I catch my wife with another man. Snuffles was my slave name. You can call me Snowball, because my fur is pretty and white. Quote mode. We all wanna die, we are meeseeks!"
             link="/"
             linkTitle="Read More"
+            hoverCardParagraph="Nobodys killing me until 
+            after I catch my wife with another man. Snuffles 
+            was my slave name. You can call me Snowball, 
+            because my fur is pretty and white. Quote mode. 
+            We all wanna die, we are meeseeks!"
           />
           <HoverCard
             dataText="Earn"
-            imgSrc={earn}
+            imgSrc={Earn}
             imgAlt="Earn"
             hoverCardTitle="Earn"
-            hoverCardParagraph="Nobodys killing me until after I catch my wife with another man. Snuffles was my slave name. You can call me Snowball, because my fur is pretty and white. Quote mode. We all wanna die, we are meeseeks!"
             link="/"
             linkTitle="Read More"
+            hoverCardParagraph="Nobodys killing me until 
+            after I catch my wife with another man. Snuffles 
+            was my slave name. You can call me Snowball, 
+            because my fur is pretty and white. Quote mode. 
+            We all wanna die, we are meeseeks!"
           />
         </div>
       </div>

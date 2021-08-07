@@ -14,19 +14,25 @@ const CardSlideFX = () => {
             img={Code}
             imgAlt="Code Image"
             cardTitle="Card One"
-            cardP="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum."
+            cardP="Nobody's killing me until after I catch my wife with another man. 
+            Snuffles was my slave name. You can call me Snowball, because my fur is 
+            pretty and white. Quote mode. We all wanna die, we're meeseeks!"
           />
           <CardSlide
             img={Design}
             imgAlt="Design Image"
             cardTitle="Card Two"
-            cardP="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum."
+            cardP="Nobody's killing me until after I catch my wife with another man. 
+            Snuffles was my slave name. You can call me Snowball, because my fur is 
+            pretty and white. Quote mode. We all wanna die, we're meeseeks!"
           />
           <CardSlide
             img={Launch}
             imgAlt="Launch Image"
             cardTitle="Card Three"
-            cardP="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum."
+            cardP="Nobody's killing me until after I catch my wife with another man. 
+            Snuffles was my slave name. You can call me Snowball, because my fur is 
+            pretty and white. Quote mode. We all wanna die, we're meeseeks!"
           />
         </div>
       </div>

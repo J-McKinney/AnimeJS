@@ -34,6 +34,7 @@ const CardSlideFX = () => {
             Snuffles was my slave name. You can call me Snowball, because my fur is 
             pretty and white. Quote mode. We all wanna die, we're meeseeks!"
           />
+          {/*//////////////////////////////////////////////////////////////////////////////*/}
         </div>
       </div>
     </>

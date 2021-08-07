@@ -1,6 +1,6 @@
-// import ABG from "./Pages/AnimatedBackGround/AnimatedBG";
-import CardHover from "./Pages/CardHoverFX/CardHover";
-import CardSlideFX from "./Pages/CardSlideFX/CardSlideFX";
+import ABG from "./Pages/AnimatedBackGround/AnimatedBG";
+// import CardHover from "./Pages/CardHoverFX/CardHover";
+// import CardSlideFX from "./Pages/CardSlideFX/CardSlideFX";
 // import logo from "./logo.svg";
 import "./App.css";
 
@@ -21,9 +21,9 @@ function App() {
           Learn React
         </a>
       </header> */}
-      {/* <ABG /> */}
-      <CardHover />
-      <CardSlideFX />
+      <ABG />
+      {/* <CardHover /> */}
+      {/* <CardSlideFX /> */}
     </div>
   );
 }

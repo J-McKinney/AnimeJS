@@ -16,7 +16,7 @@ const CardHover = () => {
             imgSrc={design}
             imgAlt="Design"
             hoverCardTitle="Design"
-            hoverCardParagraph="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum."
+            hoverCardParagraph="Nobodys killing me until after I catch my wife with another man. Snuffles was my slave name. You can call me Snowball, because my fur is pretty and white. Quote mode. We all wanna die, we are meeseeks!"
             link="/"
             linkTitle="Read More"
           />
@@ -25,7 +25,7 @@ const CardHover = () => {
             imgSrc={code}
             imgAlt="Code"
             hoverCardTitle="Code"
-            hoverCardParagraph="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum."
+            hoverCardParagraph="Nobodys killing me until after I catch my wife with another man. Snuffles was my slave name. You can call me Snowball, because my fur is pretty and white. Quote mode. We all wanna die, we are meeseeks!"
             link="/"
             linkTitle="Read More"
           />
@@ -34,7 +34,7 @@ const CardHover = () => {
             imgSrc={launch}
             imgAlt="Launch"
             hoverCardTitle="Launch"
-            hoverCardParagraph="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum."
+            hoverCardParagraph="Nobodys killing me until after I catch my wife with another man. Snuffles was my slave name. You can call me Snowball, because my fur is pretty and white. Quote mode. We all wanna die, we are meeseeks!"
             link="/"
             linkTitle="Read More"
           />
@@ -43,12 +43,10 @@ const CardHover = () => {
             imgSrc={earn}
             imgAlt="Earn"
             hoverCardTitle="Earn"
-            hoverCardParagraph="Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum."
+            hoverCardParagraph="Nobodys killing me until after I catch my wife with another man. Snuffles was my slave name. You can call me Snowball, because my fur is pretty and white. Quote mode. We all wanna die, we are meeseeks!"
             link="/"
             linkTitle="Read More"
           />
-          {/*
-           */}
         </div>
       </div>
     </>

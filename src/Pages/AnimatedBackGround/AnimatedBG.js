@@ -12,7 +12,7 @@ class AnimatedBG extends Component {
   componentDidUpdate() {}
 
   animateBlocks = () => {
-    let container = document.querySelector(".container");
+    let container = document.querySelector(".BGContainer");
     for (var i = 0; i <= 500; i++) {
       // let array= []
       let blocks = document.createElement("div");
@@ -49,8 +49,8 @@ class AnimatedBG extends Component {
   render() {
     return (
       <>
-        <div className="wrapper">
-          <div className="container">
+        <div className="BGWrapper">
+          <div className="BGContainer">
             {/* <h2>
               <span>My First video on</span>
               <br />

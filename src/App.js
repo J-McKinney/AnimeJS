@@ -22,8 +22,9 @@ function App() {
         </a>
       </header> */}
       <ABG />
-      <CardHover />
       <CardSlideFX />
+      <CardSlideFX />
+      <CardHover />
     </div>
   );
 }

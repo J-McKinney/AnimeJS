@@ -12,7 +12,8 @@
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #61dafb;
+  /* background: #61dafb; */
+  background-image: linear-gradient(#1e7df0, #ffffff, #1e7df0);
 }
 
 .BGContainer {
@@ -50,7 +51,17 @@
   width: 50px;
   height: 100px;
   /* background: #61dafb; */
-  background: #282c34;
+  /* background: #282c34; */
+  background: #1e7cf0b2;
   /* border-style: solid; */
   border-width: 1px;
+}
+
+.block:hover {
+  transition: 0.2s ease-in-out;
+  background: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #1e7df0;
+  /* border-color: #003153; */
 }

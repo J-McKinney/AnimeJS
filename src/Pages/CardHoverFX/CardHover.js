@@ -18,24 +18,20 @@ const CardHover = () => {
             hoverCardTitle="Design"
             link="/"
             linkTitle="Read More"
-            hoverCardParagraph="Nobodys killing me until 
-            after I catch my wife with another man. Snuffles 
-            was my slave name. You can call me Snowball, 
-            because my fur is pretty and white. Quote mode. 
-            We all wanna die, we are meeseeks!"
+            hoverCardParagraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+            enim ad minim veniam, quis nostrud exercitation ullamco"
           />
           <HoverCard
-            dataText="Code1"
+            dataText="Code"
             imgSrc={Code}
             imgAlt="Code"
-            hoverCardTitle="Code2"
+            hoverCardTitle="Code"
             link="/"
             linkTitle="Read More"
-            hoverCardParagraph="Nobodys killing me until 
-            after I catch my wife with another man. Snuffles 
-            was my slave name. You can call me Snowball, 
-            because my fur is pretty and white. Quote mode. 
-            We all wanna die, we are meeseeks!"
+            hoverCardParagraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+            enim ad minim veniam, quis nostrud exercitation ullamco"
           />
           <HoverCard
             dataText="Launch"
@@ -44,11 +40,9 @@ const CardHover = () => {
             hoverCardTitle="Launch"
             link="/"
             linkTitle="Read More"
-            hoverCardParagraph="Nobodys killing me until 
-            after I catch my wife with another man. Snuffles 
-            was my slave name. You can call me Snowball, 
-            because my fur is pretty and white. Quote mode. 
-            We all wanna die, we are meeseeks!"
+            hoverCardParagraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+            enim ad minim veniam, quis nostrud exercitation ullamco"
           />
           <HoverCard
             dataText="Earn"
@@ -57,11 +51,9 @@ const CardHover = () => {
             hoverCardTitle="Earn"
             link="/"
             linkTitle="Read More"
-            hoverCardParagraph="Nobodys killing me until 
-            after I catch my wife with another man. Snuffles 
-            was my slave name. You can call me Snowball, 
-            because my fur is pretty and white. Quote mode. 
-            We all wanna die, we are meeseeks!"
+            hoverCardParagraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+            enim ad minim veniam, quis nostrud exercitation ullamco"
           />
         </div>
       </div>

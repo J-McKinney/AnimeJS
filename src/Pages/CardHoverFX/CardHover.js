@@ -16,7 +16,6 @@ const CardHover = () => {
             imgSrc={Design}
             imgAlt="Design"
             hoverCardTitle="Design"
-            link="/"
             linkTitle="Read More"
             hoverCardParagraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
             do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
@@ -27,7 +26,6 @@ const CardHover = () => {
             imgSrc={Code}
             imgAlt="Code"
             hoverCardTitle="Code"
-            link="/"
             linkTitle="Read More"
             hoverCardParagraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
             do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
@@ -38,7 +36,6 @@ const CardHover = () => {
             imgSrc={Launch}
             imgAlt="Launch"
             hoverCardTitle="Launch"
-            link="/"
             linkTitle="Read More"
             hoverCardParagraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
             do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
@@ -49,7 +46,6 @@ const CardHover = () => {
             imgSrc={Earn}
             imgAlt="Earn"
             hoverCardTitle="Earn"
-            link="/"
             linkTitle="Read More"
             hoverCardParagraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
             do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 

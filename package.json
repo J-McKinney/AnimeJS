@@ -1,7 +1,7 @@
 {
   "name": "animejs",
   "Author": "Jesse McKinney",
-  "homepage": "https://j-mckinney.github.io/AnimeJS/",
+  "homepage": "https://j-mckinney.github.io/animejs/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/animejs/static/css/main.20e0d03e.chunk.css",
-    "main.js": "/animejs/static/js/main.e5c9446e.chunk.js",
-    "main.js.map": "/animejs/static/js/main.e5c9446e.chunk.js.map",
-    "runtime-main.js": "/animejs/static/js/runtime-main.c050fe40.js",
-    "runtime-main.js.map": "/animejs/static/js/runtime-main.c050fe40.js.map",
-    "static/js/2.61f0075a.chunk.js": "/animejs/static/js/2.61f0075a.chunk.js",
-    "static/js/2.61f0075a.chunk.js.map": "/animejs/static/js/2.61f0075a.chunk.js.map",
-    "static/js/3.530869ad.chunk.js": "/animejs/static/js/3.530869ad.chunk.js",
-    "static/js/3.530869ad.chunk.js.map": "/animejs/static/js/3.530869ad.chunk.js.map",
-    "index.html": "/animejs/index.html",
-    "static/css/main.20e0d03e.chunk.css.map": "/animejs/static/css/main.20e0d03e.chunk.css.map",
-    "static/js/2.61f0075a.chunk.js.LICENSE.txt": "/animejs/static/js/2.61f0075a.chunk.js.LICENSE.txt",
-    "static/media/code.3d5b2623.jpg": "/animejs/static/media/code.3d5b2623.jpg",
-    "static/media/design.2176ee26.jpg": "/animejs/static/media/design.2176ee26.jpg",
-    "static/media/earn.4855492f.jpg": "/animejs/static/media/earn.4855492f.jpg",
-    "static/media/launch.d5a72e72.jpg": "/animejs/static/media/launch.d5a72e72.jpg"
+    "main.css": "/AnimeJS/static/css/main.20e0d03e.chunk.css",
+    "main.js": "/AnimeJS/static/js/main.3e43fcda.chunk.js",
+    "main.js.map": "/AnimeJS/static/js/main.3e43fcda.chunk.js.map",
+    "runtime-main.js": "/AnimeJS/static/js/runtime-main.c3330405.js",
+    "runtime-main.js.map": "/AnimeJS/static/js/runtime-main.c3330405.js.map",
+    "static/js/2.ab227a91.chunk.js": "/AnimeJS/static/js/2.ab227a91.chunk.js",
+    "static/js/2.ab227a91.chunk.js.map": "/AnimeJS/static/js/2.ab227a91.chunk.js.map",
+    "static/js/3.32da2bbf.chunk.js": "/AnimeJS/static/js/3.32da2bbf.chunk.js",
+    "static/js/3.32da2bbf.chunk.js.map": "/AnimeJS/static/js/3.32da2bbf.chunk.js.map",
+    "index.html": "/AnimeJS/index.html",
+    "static/css/main.20e0d03e.chunk.css.map": "/AnimeJS/static/css/main.20e0d03e.chunk.css.map",
+    "static/js/2.ab227a91.chunk.js.LICENSE.txt": "/AnimeJS/static/js/2.ab227a91.chunk.js.LICENSE.txt",
+    "static/media/code.3d5b2623.jpg": "/AnimeJS/static/media/code.3d5b2623.jpg",
+    "static/media/design.2176ee26.jpg": "/AnimeJS/static/media/design.2176ee26.jpg",
+    "static/media/earn.4855492f.jpg": "/AnimeJS/static/media/earn.4855492f.jpg",
+    "static/media/launch.d5a72e72.jpg": "/AnimeJS/static/media/launch.d5a72e72.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c050fe40.js",
-    "static/js/2.61f0075a.chunk.js",
+    "static/js/runtime-main.c3330405.js",
+    "static/js/2.ab227a91.chunk.js",
     "static/css/main.20e0d03e.chunk.css",
-    "static/js/main.e5c9446e.chunk.js"
+    "static/js/main.3e43fcda.chunk.js"
   ]
 }

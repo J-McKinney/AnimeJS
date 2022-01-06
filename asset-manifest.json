@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/animejs/static/css/main.20e0d03e.chunk.css",
-    "main.js": "/animejs/static/js/main.3e43fcda.chunk.js",
-    "main.js.map": "/animejs/static/js/main.3e43fcda.chunk.js.map",
+    "main.js": "/animejs/static/js/main.c0c71ca6.chunk.js",
+    "main.js.map": "/animejs/static/js/main.c0c71ca6.chunk.js.map",
     "runtime-main.js": "/animejs/static/js/runtime-main.e39d2e4f.js",
     "runtime-main.js.map": "/animejs/static/js/runtime-main.e39d2e4f.js.map",
     "static/js/2.ab227a91.chunk.js": "/animejs/static/js/2.ab227a91.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.e39d2e4f.js",
     "static/js/2.ab227a91.chunk.js",
     "static/css/main.20e0d03e.chunk.css",
-    "static/js/main.3e43fcda.chunk.js"
+    "static/js/main.c0c71ca6.chunk.js"
   ]
 }

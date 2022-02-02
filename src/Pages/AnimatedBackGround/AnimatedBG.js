@@ -44,6 +44,10 @@ class AnimatedBG extends Component {
       boxShadow: function () {
         return "10px 10px 50px rgba(0, 0, 0, 0.6)";
       },
+      // random ass colors
+      // backgroundColor: function () {
+      //   return "#" + Math.floor(Math.random() * 16777215).toString(16);
+      // },
       delay: anime.stagger(10),
       // delay: anime.stagger(200),
       // Complete the animation effect on screen
